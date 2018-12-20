@@ -7,7 +7,7 @@ __My personal collection of useful [golang](https://golang.org) utils. Will grow
 
 ## Get it
 ```
-go get https://github.com/bejohi/YouGoGo
+go get github.com/bejohi/YouGoGo
 ```
 
 ## Functions

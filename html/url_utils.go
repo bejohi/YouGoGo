@@ -1,8 +1,8 @@
 package html
 
 import (
-	"net/url"
-	"strings"
+"net/url"
+"strings"
 )
 
 //UriSuffix extracts the suffix from a given Uri, e.g. "suffix" from "https://github.com/a/suffix?b=c#dd
