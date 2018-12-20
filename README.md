@@ -15,5 +15,5 @@ go get https://github.com/bejohi/YouGoGo
 func UriSuffix(url * url.URL) string
 ```
 
-### Disclaimer
+## Disclaimer
 All functions are covered with multiple unit tests to ensure better quality. But i don't give any guarantee.
