@@ -1,5 +1,7 @@
 # [YouGoGo](https://www.youtube.com/watch?v=pIgZ7gMze7A)
 
+[![Build Status](https://travis-ci.org/bejohi/YouGoGo.svg?branch=master)](https://travis-ci.org/bejohi/YouGoGo)
+
 __My personal collection of useful [golang](https://golang.org) utils. Will grow over time.__
 
 
