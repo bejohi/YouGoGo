@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-//UriSuffix extracts the suffix from a given Uri, e.g. "suffix" from "https://github.com/a/suffix?b=c#d
+//UriSuffix extracts the suffix from a given Uri, e.g. "suffix" from "https://github.com/a/suffix?b=c#dd
 func UriSuffix(url * url.URL) string {
 	if url == nil{
 		return ""
